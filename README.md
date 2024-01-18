@@ -38,7 +38,7 @@ pip install requests
 
 > [!CAUTION]
 > Respect Website Policies:
-> Before running the script, ensure compliance with the terms of service of the [Yep.co.za](https://www.yep.co.za/search?category=82105&pageNumber=1) website. Check the website's robots.txt file for any scraping guidelines.
+> Before running the script, ensure compliance with the terms of service of the [Yep.co.za](https://www.yep.co.za/legal-documents) website. Check the website's legal documents for any scraping guidelines.
 
 > [!TIP]
 > Continuous Execution:<br/>
