@@ -1,7 +1,7 @@
 # WebScraper-yellow-pages
 Python Script for Web Scraping and  Automation
 
-Web Scraper for (Yep.co.za)
+Web Scraper for [Yep.co.za](https://www.yep.co.za/search?category=82105&pageNumber=1)
 ## Overview
 This Python script is a web scraper designed to extract information from the Yep.co.za website related to a specific category and across multiple pages. It utilizes the BeautifulSoup library for HTML parsing and requests library to make HTTP requests.
 
@@ -38,7 +38,7 @@ pip install requests
 
 > [!CAUTION]
 > Respect Website Policies:
-> Before running the script, ensure compliance with the terms of service of the Yep.co.za website. Check the website's robots.txt file for any scraping guidelines.
+> Before running the script, ensure compliance with the terms of service of the [Yep.co.za](https://www.yep.co.za/search?category=82105&pageNumber=1) website. Check the website's robots.txt file for any scraping guidelines.
 
 > [!TIP]
 > Continuous Execution:<br/>
